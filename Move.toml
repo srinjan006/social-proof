@@ -1,0 +1,16 @@
+[package]
+name = "social_proof"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = "0x30df51705fdde49a3ef5abe825726e2504257c57765cdce2c18dd49b6074e6d7"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
