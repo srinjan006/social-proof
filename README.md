@@ -23,6 +23,7 @@ The vision of this project is to establish a trust-based digital ecosystem where
 - **Transparency & Security:** Publicly verifiable reputation scores.
 - **Smart Contract-based Enforcement:** Ensures fair distribution and management of reputation points.
 
+![image](https://github.com/user-attachments/assets/7ff31330-37c3-4c1b-b389-5010c3913f00)
 
 ```
 
